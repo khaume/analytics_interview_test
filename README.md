@@ -1,5 +1,5 @@
 # Coding exercise
-The following exercise will try to quickly assess your timeseries modelling and data science skills, illustrate how some of our activities take place, and be base for discussion during the interview.
+The following exercise will try to quickly assess your modelling and data science skills, how you deal with timeseries data, illustrate how some of our activities take place, and be base for discussion during the interview.
 
 ## Introduction
 An important activity for Ørsted is to buy and sell power on the European markets, therefore having an informed view on the future production of power allows for a competitive advantage when placing bids and offers. One of the inputs to this view comes from production forecast for Ørsted’s windfarms provided by a number of vendors. These vendors take into account the location of the windfarms, the placement of the wind turbines, the weather, and other factors and then provide daily forecast for the production for the windfarms for the next 24-hour period.
