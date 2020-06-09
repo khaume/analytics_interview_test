@@ -1,6 +1,6 @@
 # Coding exercise
-The following exercise will try to quickly assess your modelling and data science skills, how you 
-deal with timeseries data, illustrate how some of our activities take place, and be base for 
+The purpose of the following exercise is to assess your modeling and data science skills, how you 
+deal with timeseries data, illustrate how some of our activities take place, and be basis for 
 discussion during the interview.
 
 ## Introduction
