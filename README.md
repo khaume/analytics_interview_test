@@ -58,4 +58,6 @@ fee) to make the profit go to zero.
 
 ## Delivery
 Please reply to the email, from which you got the link to this repo, with a link to a GitHub or
- GitLab repo containing your code, and please cc: `kahau@orsted.com`.
+GitLab repo containing your code, and please cc: `kahau@orsted.com`.
+The excercise should take no more than 2-3 hours, and the presentation during the interview should
+last no more than 15 minutes.
