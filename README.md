@@ -1,7 +1,7 @@
 # Coding exercise
-The purpose of the following exercise is to assess your modeling and data science skills, how you 
-deal with timeseries data, illustrate how some of our activities take place, and be basis for 
-discussion during the interview.
+The purpose of the following exercise is to assess your data analytical skills, how you 
+deal with timeseries data and illustrate findings, and also to illustrate how some of our 
+activities take place, and lastly to be basis for discussion during the interview.
 
 ## Introduction
 An important activity for Ørsted is to buy and sell power on the European markets. Having an
@@ -22,21 +22,16 @@ the index.
 `target.pkl` contains the actual production from the portfolio for the same time range.
 
 ##  Task
-Your task is to create a Python class with an `sklearn`-style API (at least `fit`, `predict`, and 
-`score` methods should be implemented) to predict the actual production based on the forecasted 
-productions from the three vendors.
+Your task is to analyze the data and present your conclusions from the data in a way you feel conveys 
+the message in the strongest way.
 
-There is no limitation in terms of modeling techniques, feature engineering/cleaning, or extra data 
+There is no limitation in terms of techniques, feature engineering/cleaning, or extra data 
 you may want to include. If you do include extra data, please add this to the submission.
 Likewise, please add a `requirements.txt` file for any packages that are needed to run your code.
 
-If the model takes more than a couple of minutes to train on a normal laptop, then please add a
-method in the class to load a pre-trained model (e.g. by pickling it) and include the pickled
-model in the submission.
-
 We will evaluate:
-- Feature engineering and model creation
 - Code quality and any unit tests of your code you may wish to add.
+- Your ability to convey a meaningful and clear message from the data
 
 You will be asked to talk about and go through your solution which you can do just by going through
 your source code or in the form of a Jupyter notebook if that helps you present (we will look at
@@ -52,14 +47,15 @@ Please also be ready to talk about/discuss the following
 - Would you expect seasonality in this kind of data? If so, why and what kind?
 - If you had been able to ask questions about the domain, would that have helped you? What
  questions would you have asked?
+- If we assume Ørsted buys actulas at spot price (N2EX) and sell at a mix of spot (N2EX) and 
+imbalance price (SIP), how would you conduct an analysis for sizing the balancing fee (management
+fee) to make the profit go to zero.
 
 **Technical**
-- Argue why you chose the model you did, and why you did not choose something else?
-- What would be a good baseline prediction? Why?
-- Argue why you scored the model how you did.
+- Argue why you chose the presentation form you did?
 - If you had had more time, what would you have done?
 
 
 ## Delivery
 Please reply to the email, from which you got the link to this repo, with a link to a GitHub or
- GitLab repo containing your code, and please cc: `kahau@orsted.dk`.
+ GitLab repo containing your code, and please cc: `kahau@orsted.com`.
