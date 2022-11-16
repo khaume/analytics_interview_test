@@ -22,8 +22,8 @@ the index.
 `target.pkl` contains the actual production from the portfolio for the same time range.
 
 ##  Task
-Your task is to analyze the data and present your conclusions from the data in a way you feel conveys 
-the message in the strongest way.
+Your task is to analyze the data (you choose how you want to do it) and present your conclusions 
+from the data in a way you feel conveys the message in the strongest way.
 
 There is no limitation in terms of techniques, feature engineering/cleaning, or extra data 
 you may want to include. If you do include extra data, please add this to the submission.
@@ -47,12 +47,13 @@ Please also be ready to talk about/discuss the following
 - Would you expect seasonality in this kind of data? If so, why and what kind?
 - If you had been able to ask questions about the domain, would that have helped you? What
  questions would you have asked?
-- If we assume Ørsted buys actulas at spot price (N2EX) and sell at a mix of spot (N2EX) and 
-imbalance price (SIP), how would you conduct an analysis for sizing the balancing fee (management
-fee) to make the profit go to zero.
+- If we assume Ørsted buys actuals (the `target.pkl` data) at spot price (e.g. UK N2EX) and sell at a 
+mix of spot (e.g. UK N2EX) and imbalance price (e.g. UK SIP), how would you conduct an analysis for 
+sizing the balancing fee (management fee) to make the profit go to zero.
 
 **Technical**
-- Argue why you chose the presentation form you did?
+- Argue why you chose the presentation form you did.
+- Argue why you decided to code the analysis the way to did, and show how your code is structured.
 - If you had had more time, what would you have done?
 
 
