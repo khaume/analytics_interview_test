@@ -37,6 +37,8 @@ You will be asked to talk about and go through your solution which you can do ju
 your source code or in the form of a Jupyter notebook if that helps you present (we will look at
 source code either way).
 
+Note, the excercise should take no more than 2-3 hours.
+
 
 ### Additional questions
 
@@ -58,7 +60,6 @@ sizing the balancing fee (management fee) to make the profit go to zero.
 
 
 ## Delivery
-Please reply to the email, from which you got the link to this repo, with a link to a GitHub or
-GitLab repo containing your code, and please cc: `kahau@orsted.com`.
-The excercise should take no more than 2-3 hours, and the presentation during the interview should
-last no more than 15 minutes.
+Please reply to the email, from which you got the link to this repo, with your presentation (PowerPoint, Word, 
+Jupyter Notebook or similar) no later than 2 hours before the interview, and please cc: `kahau@orsted.com`.
+Also please attach any Python files with code you used during your preparation for the presentation.
