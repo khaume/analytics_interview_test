@@ -29,13 +29,12 @@ There is no limitation in terms of techniques, feature engineering/cleaning, or 
 you may want to include. If you do include extra data, please add this to the submission.
 Likewise, please add a `requirements.txt` file for any packages that are needed to run your code.
 
-We will evaluate:
-- Code quality and any unit tests of your code you may wish to add.
-- Your ability to convey a meaningful and clear message from the data
-
 You will be asked to talk about and go through your solution which you can do just by going through
-your source code or in the form of a Jupyter notebook if that helps you present (we will look at
-source code either way).
+your source code or in the form of a Jupyter notebook, PowerPoint presentation or similar, if that 
+helps you present (we will look at source code either way).
+
+We will evaluate both your ability to convey a meaningful and clear message from the data and 
+the code quality.
 
 Note, the excercise should take no more than 2-3 hours.
 
@@ -63,3 +62,4 @@ sizing the balancing fee (management fee) to make the profit go to zero.
 Please reply to the email, from which you got the link to this repo, with your presentation (PowerPoint, Word, 
 Jupyter Notebook or similar) no later than 2 hours before the interview, and please cc: `kahau@orsted.com`.
 Also please attach any Python files with code you used during your preparation for the presentation.
+Optional: If you are comfortable with using GitHub, you can also share a link to a repo with your files in.
